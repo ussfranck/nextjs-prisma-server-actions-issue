@@ -132,7 +132,7 @@ Refer to "/rooms[id]/page.tsx"
 
     * The application will display an error page in the browser.
     * The Vercel function logs will show a "PrismaClientKnownRequestError" with the message "Error validating datasource \`db\`: the URL must start with the protocol \`prisma:\`".
-    * ![Vercel Error Log]([])
+    * ![Vercel Error Log](https://github.com/ussfranck/nextjs-prisma-server-actions-issue/blob/main/Screenshot%202025-05-11%20153907.png?raw=true)
 
 **Expected Behavior:**
 
